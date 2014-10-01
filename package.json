@@ -1,0 +1,17 @@
+{
+  "name": "canvas-utilities",
+  "version": "1.0.0",
+  "description": "Utilities for use with node-canvas or the browser's <canvas> element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "license": "BSD",
+  "dependencies": {
+    "canvas": "^1.1.6",
+    "lodash": "^2.4.1",
+    "onecolor": "^2.4.2",
+    "victor": "^0.2.5"
+  }
+}
