@@ -12,6 +12,7 @@
     "canvas": "git+https://github.com/Automattic/node-canvas.git",
     "lodash": "^2.4.1",
     "onecolor": "^2.4.2",
+    "poisson-disc-sampler": "^1.0.0",
     "victor": "^0.2.5"
   },
   "browser": {
