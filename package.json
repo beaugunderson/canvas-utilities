@@ -1,19 +1,19 @@
 {
   "name": "canvas-utilities",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Utilities for use with node-canvas or the browser's <canvas> element.",
   "main": "canvas-utilities.js",
   "scripts": {
     "test": "mocha -R spec"
   },
   "author": "Beau Gunderson <beau@beaugunderson.com>",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "dependencies": {
-    "canvas": "git+https://github.com/Automattic/node-canvas.git",
-    "lodash": "^2.4.1",
-    "onecolor": "^2.4.2",
+    "canvas": "^1.2.3",
+    "lodash": "^3.9.3",
+    "onecolor": "^2.5.0",
     "poisson-disc-sampler": "^1.0.0",
-    "victor": "^0.2.5"
+    "victor": "^0.2.6"
   },
   "browser": {
     "canvas": "./lib/browser-canvas.js"
