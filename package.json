@@ -9,8 +9,8 @@
   "author": "Beau Gunderson <beau@beaugunderson.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "canvas": "^1.3.9",
-    "lodash": "^4.1.0",
+    "canvas": "^1.3.10",
+    "lodash": "^4.5.1",
     "onecolor": "^2.5.0",
     "poisson-disc-sampler": "^1.1.0",
     "victor": "^1.1.0"
